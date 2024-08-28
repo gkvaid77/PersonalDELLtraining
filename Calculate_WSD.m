@@ -51,13 +51,12 @@ f55.Units = 'inches';
 f55.Position =[2 2 3.5 3.0];
 
 %This line is added to check for commit1
-<<<<<<< HEAD
+
+%This is added after branch is created in ST
+
 %this line is added to check for commit2
 %this line is added after push commit1, commit2 to remote repository
 
 %this is added after creating commit for branch 1 and then checkout of master branch 
-=======
 
-%This is added after branch is created in ST
->>>>>>> branch1
 end
